@@ -1,6 +1,5 @@
 # File-Sharing-System-FSS-Using-Java-RMI
 
-# File Sharing System (FSS)
 ## Overview
 The File Sharing System (FSS) is a client-server application implemented using Java RMI, enabling file uploads, downloads, directory listing, and management via a command-line interface. It comprises a File Server and multiple Clients, allowing concurrent connections from multiple clients to the server and supports resuming interrupted file transfers.
 
